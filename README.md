@@ -1,3 +1,3 @@
 # Xianyou Blog
 
-## [Longest Palindromic Substring](./Manacher.md)
+## [Longest Palindromic Substring - Manacher algorithm](./Manacher.md)
